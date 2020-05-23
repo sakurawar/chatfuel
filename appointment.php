@@ -33,7 +33,7 @@ while(count($skipDays) >= 7){
 	array_shift($skipDays);
 }
 
-$callBackUrl = 'https://braintrustinteractive.com/chatfuel/scripts/appointment.php';
+$callBackUrl = 'https://github.com/sakurawar/chatfuel/blob/master/appointment.php';
 
 if(!empty($goToBlock)){
 
