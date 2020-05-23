@@ -5,6 +5,7 @@
 // https://clkths.us/why-bots
 
 // ?ref=dynRef^email~pfriedl@gmail.com|phone~913243618
+npm install chatfuel-api
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Credentials: true');
 header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
